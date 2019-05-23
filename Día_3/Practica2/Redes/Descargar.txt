@@ -1,0 +1,2 @@
+. http://didt.inictel-uni.edu.pe/dataset/CursoDL/Dia3/Redes/AlexCatvsDog.h5
+. http://didt.inictel-uni.edu.pe/dataset/CursoDL/Dia3/Redes/VGGCatvsDogPesos.h5

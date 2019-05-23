@@ -52,8 +52,8 @@ ________________________________________________________________________________
 3.3.3.	Separable Convolution		(10 min)  
 3.3.4.	Atrous Separable Convolution	(10 min)  
 3.4.	Training with Generators  
-3.4.1.	Organize, read and split data	(30 min)  
-3.4.2.	ImageGenerator in Keras		(20 min)  
+3.4.1.	ImageGenerator in Keras		(30 min)  
+3.4.2.	ImageGenerator Example		(20 min)  
 ________________________________________________________________________________
 ## Día 4____________________________________________________________________________
 3.4.3.	Custome DataGenerator class	(20 min)  

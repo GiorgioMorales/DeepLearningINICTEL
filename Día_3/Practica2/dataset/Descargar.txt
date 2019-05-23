@@ -1,0 +1,2 @@
+. http://didt.inictel-uni.edu.pe/dataset/CursoDL/Dia3/dataset/datasetdogvscat.zip
+. http://didt.inictel-uni.edu.pe/dataset/CursoDL/Dia3/dataset/datasetdogvscat2.hdf5
