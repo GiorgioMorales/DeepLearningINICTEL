@@ -56,31 +56,29 @@ ________________________________________________________________________________
 3.4.2.	ImageGenerator Example		(20 min)  
 ________________________________________________________________________________
 ## Día 4____________________________________________________________________________
-3.4.3.	Custome DataGenerator class	(20 min)  
-3.4.4.	Using fit_generator			(10 min)  
-3.4.5.	Aguaje Segmentation Example	(60 min)  
-3.4.6.	Predict Cloud Segmentation	(30 min)  
+3.4.3.	Custome DataGenerator class	(30 min)  
+3.4.4.	Aguaje Segmentation Example	(60 min)  
+4.	Metrics and Loss Functions  
+4.1.	Metrics in Keras				(30 min)  
 ### (Break 11:00-11:15 am)
-4.	Generative Adversarial Networks  
-4.1.	Applications					(10 min)  
-4.2.	Functioning					(10 min)  
-4.3.	Generator cost				(10 min)  
-4.4.	Optimization					(10 min)  
-4.5.	GAN cost					(20 min)  
-4.6.	DCGAN					(30 min)  
-4.7.	Pix2Pix					(30 min)  
+4.2.	Loss functions					(45 min)  
+4.3.	Customized loss functions			(30 min)  
+4.4.	Predict Cloud Segmentation			(30 min)  
 ________________________________________________________________________________
 ## Día 5____________________________________________________________________________
-4.8.	Shadow Segmentation with GANS		(60 min)  
-4.9.	Shadow Removal with GANS			(30 min)  
-  
-5.	Metrics and Loss Functions  
-5.1.	Metrics in Keras				(30 min) (top1acc, top5acc, iou,PR,SN,TNR)  
-### (Break 11:00-11:15 am)
-5.2.	Loss functions					(45 min)  
-5.3.	Customized loss functions			(20 min)  
-5.4.	Load model and weights			(10 min)  
-5.5.	Optimizers					(40 min)  
+5.	Generative Adversarial Networks  
+5.1.	Applications  				 	
+5.2.	Functioning  					
+5.3.	Discriminator cost  				
+5.4.	Generator cost		  		
+5.5.	Optimization (pseudocode)  			
+5.6.	Optimization problem		  		
+5.7.	Flow chart  
+5.8.	DCGAN		  			
+5.9.	Pix2Pix	  
+### (Break 11:00-11:15 am)				
+5.10.	Shadow Segmentation with GANS  		
+5.11.	Shadow Removal with GANS	  
 ________________________________________________________________________________
 ## Día 6____________________________________________________________________________
 6.	Sequence Models  
