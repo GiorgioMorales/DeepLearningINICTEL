@@ -88,7 +88,4 @@ ________________________________________________________________________________
 6.4.	LSTM						(15 min)  
 6.5.	Building a RNN				(60 min)   
 ### (Break 11:05-11:20 am)
-6.6.	ConvLSTM					(15 min)  
-6.7.	Conv3D					(15 min)  
-6.8.	Processing Video in Python			(30 min)  
-6.9.	Detecting Violent Sceneries in CCTV videos	(40 min)  
+6.6.	Jazz generation 
