@@ -1,6 +1,6 @@
 absl-py==0.6.1
 astor==0.7.1
-bleach==3.1.0
+bleach==3.1.4
 cloudpickle==0.6.1
 colorama==0.4.1
 cssutils==1.0.2
