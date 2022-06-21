@@ -38,7 +38,7 @@ nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
 notebook==5.7.4
-numpy==1.15.4
+numpy==1.22.0
 opencv-python==3.4.4.19
 pandocfilters==1.4.2
 pickleshare==0.7.5
